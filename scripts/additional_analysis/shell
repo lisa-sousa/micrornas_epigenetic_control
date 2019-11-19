@@ -1,0 +1,12 @@
+#!/bin/sh
+
+DIRS=`ls -d */`
+
+
+for DIR in $DIRS
+do
+cd  ${DIR}
+pwd
+rm *.pdf
+cd ..
+done

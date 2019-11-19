@@ -1,0 +1,11 @@
+/scratch/local2/epigenome/HELA/H2AZ.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H2AZ
+/scratch/local2/epigenome/HELA/H3K27ac.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H3K27ac
+/scratch/local2/epigenome/HELA/H3K27me3.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H3K27me3
+/scratch/local2/epigenome/HELA/H3K36me3.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H3K36me3
+/scratch/local2/epigenome/HELA/H3K4me1.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H3K4me1
+/scratch/local2/epigenome/HELA/H3K4me2.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H3K4me2
+/scratch/local2/epigenome/HELA/H3K4me3.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H3K4me3
+/scratch/local2/epigenome/HELA/H3K79me2.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H3K79me2
+/scratch/local2/epigenome/HELA/H3K9ac.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H3K9ac
+/scratch/local2/epigenome/HELA/H3K9me3.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H3K9me3
+/scratch/local2/epigenome/HELA/H4K20me1.bam	/project/histone_marks_miRNA/data/HELA/promoter/drosha_knockdown/promoters_1000bp_miRNA_all_expressed_filtered_merged_dis10.gff	H4K20me1
